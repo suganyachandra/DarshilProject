@@ -1,0 +1,3 @@
+Player and player movement.
+Background reset and movement.
+Obstacle spawning.
